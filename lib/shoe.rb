@@ -16,4 +16,11 @@ def color
   @color
 end
 
+def size=(size)
+  @size= size
+  
+  def size
+    @size
+  end
+  
 end
