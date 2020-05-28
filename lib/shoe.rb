@@ -40,7 +40,7 @@ def condition
   @condition
 end
 
-def repair
+def cobble
   puts "Your shoe is as good as new!"
 end
 
