@@ -39,5 +39,8 @@ end
 def condition
   @condition
 end
+
+def repair
+  puts 
   
 end
