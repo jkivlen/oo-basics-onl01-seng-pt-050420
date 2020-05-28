@@ -41,6 +41,7 @@ def condition
 end
 
 def repair
-  puts 
-  
+  puts "Your shoe is as good as new!"
+end
+
 end
